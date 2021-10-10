@@ -92,8 +92,8 @@
 .content .contentBox input{
     width: 100%;
     height: 25px;
-    border-radius: 3px;
-     border: 1px solid #f4f5f7 ;
+    border-radius: 6px;
+    border: 1px solid #f4f5f7 ;
     padding-left:20px ;
     font-weight: 600;
 }
